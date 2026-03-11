@@ -1,6 +1,6 @@
 # EvalCommerce
 
-Projet académique ING1 — Gestion des ventes et messagerie hiérarchique
+Projet académique 1ère année cycle ingénieur  — Gestion des ventes et messagerie hiérarchique
 
 ##  Objectifs du projet
 - Développer une application web complète (React + Node.js/Express)
